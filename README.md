@@ -87,8 +87,6 @@ world-happiness-machine-learning/
 │
 ├── data/
 ├── notebook/
-├── visuals/
-├── report/
 ├── README.md
 └── .gitignore
 ```
