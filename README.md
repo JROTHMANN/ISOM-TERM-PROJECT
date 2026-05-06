@@ -4,6 +4,9 @@
 
 This project analyzes global happiness trends using machine learning and predictive analytics techniques. Using the World Happiness Report dataset, the analysis explores how economic, social, and health-related variables influence happiness scores across countries over time.
 
+Collab Link:
+https://colab.research.google.com/drive/1dipnAvl5TLc0F_QHrU4kq2RXpLkN4aBF#scrollTo=4oQLYejG1Ije
+
 ---
 
 # Project Objectives
